@@ -1,0 +1,21 @@
+# ideas = {
+#
+#    country = { z
+#        deneme = {
+#            available = {
+#
+#            }
+#            cancel {
+#                
+#            }
+#            allowed = {
+#                tag = TUR
+#            }
+#            modifier = {
+#                political_power_gain = 1
+#                production_factory_efficiency_gain_factor = 0.9
+#                }
+#            
+#        }
+#    }
+#}

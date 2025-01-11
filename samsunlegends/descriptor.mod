@@ -1,0 +1,16 @@
+version="0.0.1"
+tags={
+	"Alternative History"
+	"Events"
+	"Historical"
+	"Gameplay"
+	"National Focuses"
+	"Technologies"
+	"Utilities"
+	"Military"
+	"Translation"
+	"Balance"
+	"Localisation"
+}
+name="Samsun Legends"
+supported_version="1.15.3"

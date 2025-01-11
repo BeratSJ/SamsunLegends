@@ -1,0 +1,4 @@
+spriteType = {
+    name = "TUR_SNLS_omu_university"
+    texturefile = "gfx/interface/goals/TUR_SNLS_omu_university.dds"
+}

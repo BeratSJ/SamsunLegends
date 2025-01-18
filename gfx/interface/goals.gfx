@@ -1,4 +1,5 @@
 spriteType = {
-    name = "TUR_SNLS_omu_university"
+    name = "GFX_goals_TUR_SNLS_omu_university"
     texturefile = "gfx/interface/goals/TUR_SNLS_omu_university.dds"
+    legacy_lazy_load = yes
 }

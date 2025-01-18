@@ -1,0 +1,31 @@
+state={
+
+id=982
+
+name="STATE_982"
+
+manpower = 10546
+
+state_category = rural
+
+
+history={
+
+owner = TUR
+
+}
+
+buildings = {
+
+infrastructure = 2
+}	
+
+add_core_of = TUR
+
+provinces = {
+13366
+}
+
+
+local_supplies=0.0
+}

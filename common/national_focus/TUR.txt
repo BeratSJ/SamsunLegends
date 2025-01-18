@@ -79,18 +79,18 @@ focus_tree = {
   
   focus = {
     id = TUR_SNLS_omu_university
-    icon = TUR_SNLS_omu_university
+    icon = GFX_goals_TUR_SNLS_omu_university
 
     x = 12
     y = 3
-	 cost = 2
+	  cost = 2
 
-   prerequisite = {focus = TUR_SNLS_air_power}
-   mutually_exclusive = { focus = TUR_SNLS_samsun_university}
-   completion_reward = {
-    add_extra_state_shared_building_slots = 5
-    add_research_slot = 1
-   }
+    prerequisite = { focus = TUR_SNLS_air_power }
+    mutually_exclusive = { focus = TUR_SNLS_samsun_university }
+    completion_reward = {
+      add_extra_state_shared_building_slots = 5
+      add_research_slot = 1
+    }
 
 	}
 

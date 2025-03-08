@@ -1,6 +1,6 @@
 # ideas = {
 #
-#    country = { z
+#    country = { 
 #        deneme = {
 #            available = {
 #

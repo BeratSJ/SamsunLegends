@@ -128,7 +128,7 @@ focus_tree = {
     cost = 10
     prerequisite = {focus = TUR_SNLS_omu_university}
     completion_reward {
-
+      
     }
 
    }
@@ -148,6 +148,10 @@ focus = {
 
 
 # Samsun Üniversitesi Yolu-SAMU
+
+
+
+
    focus = {
     id = TUR_SNLS_samsun_industry
     x = 15
@@ -202,8 +206,8 @@ focus = {
 
 
     focus = {
-      id = TUR_SNLS_samsun_against_soviet
-      icon = GFX_focus_SOV_international_union_of_soviet_republics
+      id = TUR_SNLS_samsun_port_1
+      icon = GFX_focus_generic_navy_battleship2
       x = 15
       y = 8
       cost = 5

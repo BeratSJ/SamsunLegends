@@ -10,7 +10,7 @@ focus_tree = {
   focus = {
     id = TUR_SNLS_infrastructure #focus'un id'si
     icon = GFX_goal_reichsautobahn #focus ikonu
-    x = 15 
+    x = 15
     y = 0
     cost = 1 # focus'un süresi 1 cost 7 gün,5 cost  35 gün,10 cost 70 gün
     
@@ -291,6 +291,9 @@ focus = {
         add_political_power = -100
       }
     }
+      
+      
+      # Bafra İsyanı! Yolu
       focus = {
         id = TUR_SNLS_bafra_rebellion
         x = 40
@@ -298,6 +301,19 @@ focus = {
         cost = 5
         mutually_exclusive = {focus = TUR_SNLS_districts_are_merging}
         mutually_exclusive = {focus = TUR_SNLS_turkey}
-        
+      }
+
+      focus = {
+        id = TUR_SNLS_bafra_assembly
+        x = 38
+        y = 2
+        prerequisite = { focus = TUR_SNLS_bafra_rebellion}
+      }
+
+      focus = {
+        id = TUR_SNLS_bafra_civil_war
+        x = 40
+        y = 4
+        prerequisite = { focus = TUR_SNLS_bafra_assembly}
       }
 } 
